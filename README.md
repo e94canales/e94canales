@@ -21,10 +21,8 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
-  ![SASS](https://img.shields.io/badge/-SASS-333333?style=for-the-badge&logo=sass)
-  ![LESS](https://img.shields.io/badge/-LESS-333333?style=for-the-badge&logo=less)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=for-the-badge&logo=redux)
-  <br>&emsp;&emsp;![JEST](https://img.shields.io/badge/-Jest-333333?style=for-the-badge&logo=jest)
+  ![JEST](https://img.shields.io/badge/-Jest-333333?style=for-the-badge&logo=jest)
   ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=for-the-badge&logo=yarn)
   
 - 🗄️ &nbsp;
