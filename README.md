@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=e94canales&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e94canales&layout=compact)](https://github.com/e94canales/github-readme-stats)
+
