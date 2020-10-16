@@ -1,4 +1,5 @@
-### Hi there 👋
+### Erick Canales
+[![Linkedin Badge](https://img.shields.io/badge/-Erick_Canales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/e94canales//)](https://www.linkedin.com/in/e94canales/) 
 
 <!--
 **e94canales/e94canales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
