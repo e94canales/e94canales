@@ -1,4 +1,4 @@
-### 🌟 Erick Canales
+# 🌟 Erick Canales
  <p align="center">
 <a href="https://www.erickcanales.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-https://www.erickcanales.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/e94canales/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Erick%20Canales-blue?style=flat-square&logo=linkedin"></a>
