@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=e94canales&count_private=true&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e94canales&layout=compact)](https://github.com/e94canales/github-readme-stats)
-
+<a href="https://github.com/e94canales">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=e94canales&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e94canales&theme=buefy&layout=compact" />
+</a>
