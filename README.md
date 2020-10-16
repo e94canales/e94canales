@@ -26,6 +26,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=for-the-badge&logo=redux)
   ![JEST](https://img.shields.io/badge/-Jest-333333?style=for-the-badge&logo=jest)
+  ![NPM](https://img.shields.io/badge/-NPM-333333?style=for-the-badge&logo=npm)
   ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=for-the-badge&logo=yarn)
   
 - 🗄️ &nbsp;
