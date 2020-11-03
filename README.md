@@ -7,7 +7,7 @@
 
 <h3>📖 &nbsp; About Me</h3>
 
-- 🌱 &nbsp; Currently learning more about different styling frameworks, MongoDB, and Ruby
+- 🌱 &nbsp; Currently learning C++ and more on AWS
 - ⚡ &nbsp; Hobbies include music production, binge watching shows, and RPG's
 - 🌎 &nbsp; Passionate about creating inclusive atmospheres and enjoy helping others
 
